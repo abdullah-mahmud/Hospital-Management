@@ -1,0 +1,12 @@
+press 1 for Doctors Section,
+      2 for Patients Section,
+      3 For Staffs  Section,
+      4 for Medicine Section.
+By pressing 5 and 6 it will show the help and credits option.
+and By 7 it will exit the softwere
+This is how the softwere works.
+Thank you for using this softwere.  
+
+	  
+	      
+	    

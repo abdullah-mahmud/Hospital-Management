@@ -1,0 +1,41 @@
+DEPERTMENT : Medicine
+
+
+Name	  Fone nmbr    Email		Chamber address	      chekin time	
+
+Dr.Nuru	   0985345   ashfaq@pro.com  Ibne Sina,Dhanmondi   evryday 6-8.30am
+
+Dr.Rifat   0912787   aula@ula.com    Medinova,Dhanmondi    tue,sun,mon 5-9pm
+
+Dr.Habib   0987246   asdff@hg.com    Apollo Hosp,Baridhara  evryday 7-10pm
+
+Dr.Sharif  0989870   asfulla@pc.com  United Hosp,Baridhara  evryday 6-8.30am
+
+Dr.Shifat  0912745   afra@ula.com    Square Hosp,Panthapath Friday off 5-9pm
+
+Dr.Harun   0987246   piash@hg.com    Fortis Hosp,Gulshan    evryday 8-10pm
+
+
+DEPERTMENT : Cardiology
+
+
+
+Name	   Fone nmbr    Email		Chamber address	      chekin time
+
+Dr.Fatema  0111123    abc@gm.com       Lab Aid,Dhanmondi   evryday 4-6.30pm
+
+Dr.Khayer  0082323    abd@lv.com       Lab Aid,Dhanmondi   Friday off 4-7pm
+
+Dr.Hauque  6776277    jhg@yh.com       Lab Aid,Dhanmondi   Monday off 4-6pm
+
+Dr.Roben   2784284    kjh@kh.com       Lab Aid,Dhanmondi  evryday 7-10.30pm
+
+
+DEPERTMENT : Eye
+
+Name	   Fone nmbr    Email		Chamber address	      chekin time
+
+Dr.Mostafa  162472    jshd@lv.com     Fortis Hosp,Gulshan   Friday off 2-4pm
+	
+Dr.Ansarul  081298    aula@ula.com    Medinova,Dhanmondi    tue,sun,mon 5-9pm
+
