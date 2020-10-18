@@ -1,0 +1,42 @@
+Saturday :				
+
+DEPERTMENT : Medicine			DEPERTMENT : Eye
+
+Name           chekin time		Name           chekin time
+
+Dr.Nuru  ----- 6pm-8.30pm		Dr.Mostafa ----- 6pm-9.30pm
+Dr.Habib ----- 7pm-10pm			Dr.Habiba ----- 7am-11am
+Dr.Sharif ---- 7am-10.30am		Dr.Ansarul ---- 2am-6.30am
+
+
+DEPERTMENT : Cardiology
+
+
+Name           chekin time
+
+
+Dr.Fatema  ----- 4pm-6.30pm
+Dr.Roben   ----- 7pm-10.30pm
+Dr.Arian   ----- 8am-10am
+
+
+Sunday :
+
+DEPERTMENT : Medicine			DEPERTMENT : Eye
+
+Name           chekin time		Name           chekin time
+
+Dr.Rafiq  ----- 6pm-8.30pm		Dr.Mostafa ----- 6pm-9.30pm
+Dr.Hasib ----- 7pm-10pm			Dr.Habiba ----- 7am-11am
+Dr.Arif ---- 7am-10.30am		Dr.Ansarul ---- 2am-6.30am
+
+
+DEPERTMENT : Cardiology
+
+
+Name           chekin time
+
+
+Dr.Khayer  ----- 4pm-6.30pm
+Dr.Roben   ----- 7pm-10.30pm
+Dr.Hauque   ----- 8am-10am
